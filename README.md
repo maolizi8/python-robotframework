@@ -20,5 +20,6 @@
 
 ## 浏览器驱动
 > 火狐：https://github.com/mozilla/geckodriver/releases/
-> 谷歌
+> 谷歌：http://chromedriver.storage.googleapis.com/index.html?path=2.7/
+> 
 
