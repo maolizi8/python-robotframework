@@ -17,3 +17,8 @@
 > 6. 一般系统会自动创建ride图标，也可DOM中运行ride.py可打开ride界面。
 > 6.1 如果系统没有自动生成ride图标，制作方法：桌面右键“新建快捷方式” ----地址里填写：C:\Python27\pythonw.exe -c "from robotide import main; main()"
 
+
+## 浏览器驱动
+> 火狐：https://github.com/mozilla/geckodriver/releases/
+> 谷歌
+
